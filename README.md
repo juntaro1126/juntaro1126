@@ -1,2 +1,3 @@
 田代潤太郎です。
-HTML css JavaScript（jQuery）PHP（WordPress）。
+HTML css JavaScript（jQuery）PHP（WordPress）が使いこなせます。
+
